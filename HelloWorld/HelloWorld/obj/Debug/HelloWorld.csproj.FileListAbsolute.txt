@@ -1,0 +1,6 @@
+D:\Thuytien\Hoc tap\Quy trinh phan mem\Nant\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Thuytien\Hoc tap\Quy trinh phan mem\Nant\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Thuytien\Hoc tap\Quy trinh phan mem\Nant\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Thuytien\Hoc tap\Quy trinh phan mem\Nant\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Thuytien\Hoc tap\Quy trinh phan mem\Nant\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Thuytien\Hoc tap\Quy trinh phan mem\Nant\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
